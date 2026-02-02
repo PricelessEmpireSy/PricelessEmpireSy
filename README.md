@@ -1,5 +1,55 @@
-# 💫 About Me:
-🔧 I’m currently working on: Penetration testing projects, vulnerability assessments, and securing cloud-based systems against cyber threats.<br>🔥 I’m looking to collaborate on: Open-source cybersecurity tools, ethical hacking challenges, and awareness programs for digital security.<br>🤝 I’m looking for help with: Advanced malware analysis and reverse engineering techniques.<br>🌱 I’m currently learning: Exploitation techniques for modern operating systems, advanced cryptographic methods, and AI's role in cybersecurity.<br>💬 Ask me about: Network security, ethical hacking methodologies, and cybersecurity certifications like CEH, OSCP, or CISSP.<br>⚡ Fun fact: I once found a critical vulnerability in a system during a hackathon that helped the organization enhance its security!
+# Mercy Amarachi Agbayi
+
+🔐 ISC2 Certified in Cybersecurity (CC)  
+Cybersecurity & Risk Analyst in Training | Criminology + IT | Frontend SWE – ALX
+
+---
+
+## About Me
+I am an entry-level cybersecurity professional with a multidisciplinary background in Criminology & Security Studies, Information Technology, and Cybersecurity. I hold:
+
+- B.Sc. Criminology & Security Studies  
+- B.Sc. Information Technology  
+- PGDEd  
+- M.Sc. Cyber Security  
+
+My focus is on Cybersecurity Operations, IT Audit, Risk & Compliance (GRC), and Security Analysis.  
+I am currently building hands-on security and audit simulation projects aligned with real-world job requirements.
+
+---
+
+## Core Interests
+- Security Operations (SOC)  
+- IT Audit & GRC  
+- Risk Assessment & Threat Analysis  
+- Access Control & Identity Management  
+- Incident Response Foundations  
+
+---
+
+## Tools & Technologies
+- Active Directory (User & Access Management)  
+- Linux & Windows Server  
+- Wazuh / Splunk (Log Monitoring)  
+- GLPI / Jira (Change & Incident Management)  
+- Odoo / ERPNext (Business Application Simulation)  
+- Excel / Google Sheets (Risk Registers & Audit Logs)  
+
+---
+
+## Featured Project
+🔹 BankSecure IT Audit & Access Control Simulation  
+A hands-on cybersecurity & IT audit lab that simulates a bank environment to practice access control, risk assessment, compliance checks, fraud monitoring, and audit reporting.
+
+👉 See repository below.
+
+---
+
+## Career Focus
+I am seeking entry-level cybersecurity, GRC, IT audit, SOC, and risk analyst roles, including remote or internship opportunities.
+
+📫 Contact:   
+Email: misspriceless45@gmail.com
 
 
 ## 🌐 Socials:
